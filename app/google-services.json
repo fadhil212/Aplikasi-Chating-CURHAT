@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323413364742",
+    "project_id": "curhat16-21a79",
+    "storage_bucket": "curhat16-21a79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323413364742:android:acf2f830406ca570d7b387",
+        "android_client_info": {
+          "package_name": "com.example.curhat16"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323413364742-ogqp7jdg82im3l8rsiu5ck8pf2kber6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNb1r0pXPUAn8Bl8dtMfSMsRZ2xajVyMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323413364742-ogqp7jdg82im3l8rsiu5ck8pf2kber6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
